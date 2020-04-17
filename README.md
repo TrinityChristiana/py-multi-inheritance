@@ -10,7 +10,7 @@ This assignment is an individual exercise: [Directions here](https://github.com/
 - [Directions](https://github.com/TrinityTerry/py-multi-inheritance/blob/master/directions/directions.md#practice-uncle-jakes-flower-shop)
 
 ## Practice: Diggers and Fliers
-<!-- - [Code]() -->
+- [Code](https://github.com/TrinityTerry/py-multi-inheritance/blob/master/diggers-and-fliers/py_files/main.py#L1)
 - [Directions](https://github.com/TrinityTerry/py-multi-inheritance/blob/master/directions/directions.md#practice-diggers-and-fliers)
 
 ---
